@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: fm;
+    src: url(brother_time/Brother\ Time.ttf);
+}
+
+h1{
+    font-family: fm;
+}
+body{
+    text-align: center;
+    background-color: #245ea0;
+    overflow: hidden;
+     width: 100%;
+     background-position: 0px 100px;
+}
+
+fieldset{
+    background-image:url(https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-atmospheric-medical-medical-symbol-gradient-poster-image_202320.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 90%;
+    height: 100%;
+    margin: 40px;
+    
+}
+
+button{
+    background-color: #2265b1;
+}
+
+.box{
+   width: 100%;
+   height: 500%;
+   padding: 5%;
+   font-family: 'Courier New', Courier, monospace;
+   align-items: center;
+}
